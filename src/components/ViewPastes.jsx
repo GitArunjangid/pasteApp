@@ -1,5 +1,5 @@
 import React from "react";
-import paste from "./paste";
+import paste from "./Paste";
 import { useParams } from "react-router-dom";
 import { useSelector } from "react-redux";
 
